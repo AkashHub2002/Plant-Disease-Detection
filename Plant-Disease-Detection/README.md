@@ -58,9 +58,11 @@
 
 ![image](https://github.com/user-attachments/assets/209b7f95-565f-4d57-9008-bbb97567367f)
 
-#### Results Page 
-<img src = "demo_images/3.png"> <br>
-#### Supplements/Fertilizer  Store
-<img src = "demo_images/4.JPG"> <br>
-#### Contact Us 
-<img src = "demo_images/5.png"> <br><br>
+# AI Engine home page
+
+![image](https://github.com/user-attachments/assets/5ad0c7af-40d9-4b52-90ab-ec06d10f128f)
+
+# Supplements/Fertilizer  Store
+
+![image](https://github.com/user-attachments/assets/cac87853-a499-4364-9b4b-4c23f58edd23)
+
