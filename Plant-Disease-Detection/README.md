@@ -28,14 +28,36 @@
 * Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
 
 ## ⭐Blog Link
-<a href="https://medium.com/analytics-vidhya/plant-disease-detection-using-convolutional-neural-networks-and-pytorch-87c00c54c88f" target = "_blank">Plant Disease Detection Using Convolutional Neural Networks with PyTorch</a><br>
+<a href="https://medium.com/analytics-vidhya/plant-disease-detection-using-convolutional-neural-networks-and-pytorch-87c00c54c88f" target = "_blank">Plant Disease Detection Using Convolutional Neural Networks with PyTorch</a>
+
+<br>
 
 
 ## ⭐Snippet of Web App :
-#### Main page
-<img src = "demo_images/1.png" > <br>
-#### AI Engine 
-<img src = "demo_images/2.png"> <br>
+# Main page
+## header
+
+![image](https://github.com/user-attachments/assets/efdc3b14-2d61-491a-88e8-bf9393688853)
+
+### footer
+
+![image](https://github.com/user-attachments/assets/98fdc98e-787f-4a30-bac9-dbcb200c2f4a)
+
+<br>
+
+# Login/Registration Page
+
+![image](https://github.com/user-attachments/assets/e8dc269c-d446-4872-90f6-e94c5de0f57e)
+
+![image](https://github.com/user-attachments/assets/6db67621-62a7-423f-b5d1-989f0331a5d6)
+
+<br>
+
+
+# AI Engine home page
+
+![image](https://github.com/user-attachments/assets/209b7f95-565f-4d57-9008-bbb97567367f)
+
 #### Results Page 
 <img src = "demo_images/3.png"> <br>
 #### Supplements/Fertilizer  Store
